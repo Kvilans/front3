@@ -1,4 +1,6 @@
 ## Путешествие по России
 
+##Адаптивный сайт
 
-<a href="https://github.com/Dragzet/FrontMireaRussia">GITHUB</a>
+
+<a href="">GITHUB</a>
